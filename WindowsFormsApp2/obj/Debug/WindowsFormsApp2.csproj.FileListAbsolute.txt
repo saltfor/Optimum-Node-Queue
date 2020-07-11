@@ -1,0 +1,10 @@
+G:\Masaüstü\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Masaüstü\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Masaüstü\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Masaüstü\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
